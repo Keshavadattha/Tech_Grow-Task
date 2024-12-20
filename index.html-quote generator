@@ -13,6 +13,10 @@
 
   <body>
       <div class="body">
+        <nav class="navbar navbar-dark bg-dark">
+          <!-- Navbar content -->
+        </nav>
+        
       <div class="container">
           <p class="quote"><i> one motivational word can
 transforms a man to  a super hero .   </i><br><b> - Keshava </b></p>
@@ -112,3 +116,4 @@ function generate_tweet(quoteObj) {
 </div>
  </div>
  
+  
